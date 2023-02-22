@@ -1,7 +1,5 @@
-import 'package:post/data/source/api_data.dart';
-
-import '../configs.dart';
-import '../data/models/post_model.dart';
+import 'package:post/data/data.dart';
+import 'package:post/shared/shared.dart';
 
 class PostService{
   final String _url = '$baseUrl/posts';

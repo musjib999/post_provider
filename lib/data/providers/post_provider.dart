@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
-import 'package:post/constants.dart';
-import 'package:post/services/post_service.dart';
+import 'package:post/index.dart';
 
 class PostProvider with ChangeNotifier{
   PostProvider(){

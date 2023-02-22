@@ -1,4 +1,4 @@
-import 'data/models/post_model.dart';
+import '../data/models/post_model.dart';
 
 enum PostStatus {
  initial, loading, success, error

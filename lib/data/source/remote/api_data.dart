@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:http/http.dart' as http;
-import 'package:post/data/models/api_model.dart';
+import 'package:post/index.dart';
 class ApiData{
   Future<ApiModel> getRequest(String url) async{
     ApiModel apiModel;

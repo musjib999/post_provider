@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:post/constants.dart';
-import 'package:post/data/providers/post_provider.dart';
-import 'package:provider/provider.dart';
+import 'package:post/index.dart';
 
 class PostScreen extends StatefulWidget {
   const PostScreen({Key? key}) : super(key: key);

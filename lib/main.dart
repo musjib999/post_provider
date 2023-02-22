@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:post/data/providers/post_provider.dart';
-import 'package:post/screens/post_screen.dart';
+import 'package:post/UI/screens/post_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
